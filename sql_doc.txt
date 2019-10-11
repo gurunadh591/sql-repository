@@ -1,7 +1,2 @@
-gh
-fbskfslf;
-sfds;fka';f
-fsfkl;sfks;f
-fsfskfsf
-modified1
-modified2
+select * from emp;
+select * from dept;
